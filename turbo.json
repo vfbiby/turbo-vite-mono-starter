@@ -11,6 +11,12 @@
     "test": {
       "cache": false
     },
+    "test:ui": {
+      "cache": false
+    },
+    "test:watch": {
+      "cache": false
+    },
     "dev": {
       "cache": false
     },

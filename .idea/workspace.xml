@@ -4,15 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75ebcd53-1f67-49e0-9d13-39b971320179" name="Changes" comment="feat: 添加storybook">
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    <list default="true" id="75ebcd53-1f67-49e0-9d13-39b971320179" name="Changes" comment="feat: 添加test command" />
+=======
+=======
+>>>>>>> Stashed changes
+    <list default="true" id="75ebcd53-1f67-49e0-9d13-39b971320179" name="Changes" comment="feat: 添加test command">
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/App.spec.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/tests/setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/vitest.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/dashboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/dashboard/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/turbo.json" beforeDir="false" afterPath="$PROJECT_DIR$/turbo.json" afterDir="false" />
     </list>
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -31,15 +51,26 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "prettierjs.PrettierConfiguration.Package": "/Users/zhangtielin/code/js_projects/my-turborepo/node_modules/prettier",
-    "ts.external.directory.path": "/Users/zhangtielin/code/js_projects/my-turborepo/packages/ui/node_modules/typescript/lib",
+=======
+    "prettierjs.PrettierConfiguration.Package": "/Users/zhangtielin/code/js_projects/turbo-vite-mono-starter/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+>>>>>>> Stashed changes
+=======
+    "prettierjs.PrettierConfiguration.Package": "/Users/zhangtielin/code/js_projects/turbo-vite-mono-starter/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+>>>>>>> Stashed changes
+    "ts.external.directory.path": "/Users/zhangtielin/code/js_projects/turbo-vite-mono-starter/apps/dashboard/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -74,7 +105,7 @@
       <workItem from="1670813950934" duration="150000" />
       <workItem from="1670908305892" duration="705000" />
       <workItem from="1670909126920" duration="1346000" />
-      <workItem from="1670914315147" duration="6432000" />
+      <workItem from="1670914315147" duration="7559000" />
     </task>
     <task id="LOCAL-00001" summary="feat: 添加storybook">
       <created>1670916792085</created>
@@ -83,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670916792085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: 添加test command">
+      <created>1670929973146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670929973146</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat: 添加storybook" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加storybook" />
+    <MESSAGE value="feat: 添加test command" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加test command" />
   </component>
 </project>
