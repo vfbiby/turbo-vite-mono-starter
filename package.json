@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "turbo-vite-mono-starter",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
@@ -9,6 +9,8 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
+    "storybook": "turbo run storybook",
+    "build-storybook": "turbo run build-storybook",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
