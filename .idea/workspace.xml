@@ -5,13 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75ebcd53-1f67-49e0-9d13-39b971320179" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/apps/docs/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/docs/next-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/docs/next.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/docs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/docs/pages/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/docs/tsconfig.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/.storybook/main.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/.storybook/preview-head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/.storybook/preview.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/Button.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/Header.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/Introduction.stories.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/Page.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/Page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/assets/code-brackets.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/assets/colors.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/assets/comments.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/assets/direction.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/assets/flow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/assets/plugin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/assets/repo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/assets/stackalt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/dashboard/src/stories/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/dashboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/dashboard/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,22 +46,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/zhangtielin/code/js_projects/my-turborepo/node_modules/prettier&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/zhangtielin/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-1/223.7571.168/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/zhangtielin/code/js_projects/my-turborepo/node_modules/prettier",
+    "ts.external.directory.path": "/Users/zhangtielin/code/js_projects/my-turborepo/packages/ui/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/dashboard" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="dev" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
