@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75ebcd53-1f67-49e0-9d13-39b971320179" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/turbo-vite-mono-starter.iml" afterDir="false" />
+    <list default="true" id="75ebcd53-1f67-49e0-9d13-39b971320179" name="Changes" comment="feat: 添加storybook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/dashboard/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/apps/dashboard/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/turbo.json" beforeDir="false" afterPath="$PROJECT_DIR$/turbo.json" afterDir="false" />
     </list>
@@ -78,8 +74,16 @@
       <workItem from="1670813950934" duration="150000" />
       <workItem from="1670908305892" duration="705000" />
       <workItem from="1670909126920" duration="1346000" />
-      <workItem from="1670914315147" duration="2440000" />
+      <workItem from="1670914315147" duration="6432000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 添加storybook">
+      <created>1670916792085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670916792085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat: 添加storybook" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加storybook" />
   </component>
 </project>
